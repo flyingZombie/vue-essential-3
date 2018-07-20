@@ -1,0 +1,54 @@
+{
+  "description" : "Lester's demo site",
+  "contacts" : [
+    { "icon": "envelope", "title": "feedbacks", "link": "mailto:lester.shiyi.li@gmail.com" },
+    { "icon": "weibo", "title": "founder's weibo", "link": "https://weibo.com/1837553744/profile?topnav=1&wvr=6" },
+    { "icon": "weixin", "title": "Add my weixin", "link": "https://*.com/contact" }
+  ],
+  "designer" : "Lester Li",
+  "sponsor" : {
+    "title" : "Sponsors",
+    "list" : [
+      { "logo" : "https://lccdn.phphub.org/uploads/banners/bQawWl3vT5dc2lYx5JZ7.png" ,
+        "title" : "Ucloud",
+        "link" : "http://www.ucloud.cn"
+      },
+      { "logo" : "https://lccdn.phphub.org/uploads/banners/yGLIR0idW7zsInjsNmzr.png" ,
+        "title" : "Qiniu",
+        "link" : "http://www.qiniu.com"
+      },
+      { "logo" : "https://lccdn.phphub.org/uploads/banners/XPtLlZmIN1cQbLuDFEON.png" ,
+        "title" : "Composer",
+        "link" : "https://www.upyun.com/"
+      },
+      { "logo" : "https://lccdn.phphub.org/uploads/banners/JpTCK6OKYBIrBIWdtob8.png" ,
+        "title" : "SendCloud",
+        "link" : "http://www.sendcloud.net/"
+      }
+    ]
+  },
+  "statistics" : {
+    "title": "Statistics",
+    "list": [
+      {
+        "title": "Members",
+        "description": "222000"
+      },
+      {
+        "title": "Topics",
+        "description": "7297"
+      },
+      {
+        "title": "Replies",
+        "description": "234242"
+      }
+    ]
+  },
+  "other": {
+    "title": "Other information",
+    "list": [
+      {"icon": "thumbs-up", "title": "Coding service", "link": "https://*.com/contact"},
+      {"icon": "globe", "title": "Recommendations", "link": "https://*.com/recommendations"}
+    ]
+  }
+}
